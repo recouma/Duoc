@@ -4,6 +4,8 @@ stock_concepcion = 500
 stock_puente_alto = 1300
 stock_muelle_baron = 100
 stock_muelle_vergara = 50
+
+
 ###nivel de usuarios clientes
 clientes_concepcion = []
 clientes_puente_alto = []
